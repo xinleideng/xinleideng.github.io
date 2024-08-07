@@ -1,0 +1,17 @@
+---
+title: "Call for collaborators"
+output: html_document
+date: "2024-08-06"
+---
+
+## Call for partners/collaborators
+
+We are a startup team working on several iOS and android apps and looking for partners who also want to start a business. We would like you to have the following background:
+
+<ul>
+<li>Computer Science/Data Science/Business/Economics</li>
+<li>Passionate about startup and eager to learn new technical skills.</li>
+<li>Extensive knowledge or experience in deep learning, AI, large language models, and image recognition.</li>
+<li>Extensive experience in Swift, Java, Javascript, and Python.
+</ul>
+If you are interested, please contact us at your convinience. We are looking forward to hearing from you!
